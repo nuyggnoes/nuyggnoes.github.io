@@ -6,6 +6,7 @@ import Paragraph from "./components/Paragraph";
 import Header from "./components/layout/header/Header";
 import Main from "./components/layout/Main";
 import About from "./components/About";
+import Skill from "./components/skill/Skill";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         </Section>
         <Section id="skills">
           <SubTitle text="SKILLS" />
+          <Skill />
         </Section>
         <Section id="projects">
           <SubTitle text="PROJECTS" />
