@@ -3,7 +3,7 @@ import styled from "@emotion/styled";
 const StyledTitle = styled.h1`
   position: relative;
   display: inline-block;
-  font-size: 2rem;
+  font-size: 2em;
   font-weight: 800;
   margin-bottom: 4rem;
   &::after {

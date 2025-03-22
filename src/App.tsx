@@ -7,6 +7,7 @@ import Header from "./components/layout/header/Header";
 import Main from "./components/layout/Main";
 import About from "./components/About";
 import Skill from "./components/skill/Skill";
+import Contact from "./components/contact/Contact";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         </Section>
         <Section id="contact">
           <SubTitle text="CONTACT" />
+          <Contact />
         </Section>
       </Main>
     </>

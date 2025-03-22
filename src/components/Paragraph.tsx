@@ -1,8 +1,8 @@
 import styled from "@emotion/styled";
 
 const StyledP = styled.p`
-  font-size: 1.2rem;
-  margin: 2rem 0;
+  font-size: 1.2em;
+  margin: 2em 0;
 `;
 
 function Paragraph() {

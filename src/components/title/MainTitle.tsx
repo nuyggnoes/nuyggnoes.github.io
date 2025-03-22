@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 
 const Title = styled.h1`
-  font-size: 2.5rem;
+  font-size: 2.5em;
   font-weight: 800;
   line-height: 1.2;
   margin-top: 2em;
@@ -10,7 +10,7 @@ const Title = styled.h1`
     color: black;
   } */
   @media screen and (max-width: 960px) {
-    font-size: 2rem;
+    font-size: 2em;
   }
 `;
 
